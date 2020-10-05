@@ -1,2 +1,0 @@
-# namecard
-My namecard
